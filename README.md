@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Tutorial for Internationalization in a React website
+
+Code for the tutorial of internationalizing a React website. This tutorial uses [i18next](https://react.i18next.com).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
